@@ -9,5 +9,5 @@ And here is the CSV file uploaded to a Google sheet to make your life even easie
 
 If you decide to do a story based on this data, give me a shout at (look for contact details in my GitHub profile) 
 
-# nguyen-cosmotology-violations
+# Cosmotology Violations by the Nguyens in Texas
 I scraped all 80 cosmetology violations for licensees with the last name NGUYEN from the Texas Department of Licensing and Regulation. 
