@@ -11,3 +11,8 @@ If you decide to do a story based on this data, give me a shout at (look for con
 
 # Cosmotology Violations by the Nguyens in Texas
 I scraped all 80 cosmetology violations for licensees with the last name NGUYEN from the Texas Department of Licensing and Regulation. 
+
+# Tow Trucks in 45 Zip Codes of Houston
+I scraped information on tow trucks in the following districts of Houston:
+    "77002","77021","77040","77059","77078","77098","77384","77479","77547",
+    "77003","77022","77041","77060","77079","77099","77385","77484","77571".
