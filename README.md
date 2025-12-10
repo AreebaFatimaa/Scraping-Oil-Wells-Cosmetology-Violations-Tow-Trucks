@@ -8,3 +8,6 @@ Here is my code, which I used to scrape information on all the wells in North Da
 And here is the CSV file uploaded to a Google sheet to make your life even easier: https://docs.google.com/spreadsheets/d/1ejBJYX8JsTNiw5IBNhwzEPqigr99IavNsEZ27aau4Gs/edit?usp=sharing
 
 If you decide to do a story based on this data, give me a shout at (look for contact details in my GitHub profile) 
+
+# nguyen-cosmotology-violations
+I scraped all 80 cosmetology violations for licensees with the last name NGUYEN from the Texas Department of Licensing and Regulation. 
